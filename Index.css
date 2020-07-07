@@ -1,0 +1,177 @@
+.body
+{
+  
+  background-color: #16336d;
+  background-image: linear-gradient(to right,#16336d, );
+  
+}
+.main
+{
+  height: 940px;
+  width: 1900px;
+  border: transparent;
+  margin: auto;
+  display: flex;
+}
+.sidea
+{
+  height: 910px;
+  width: 900px;
+  border: thin solid transparent;
+  margin-top: 12px;
+  margin-left: 12px;
+  margin-bottom: 12px;
+  
+}
+.sideb
+{
+  height: 910px;
+  width: 950px;
+  border: transparent;
+  margin-top: 12px;
+  margin-left: 14px;
+  margin-bottom: 12px;
+  
+}
+#head
+{
+  height: 120px;
+  width: 250px;
+  display: flex;
+  
+}
+#logo
+{
+  height: 120px;
+  width: 250px;
+  border: thin solid white;
+  margin-left: 90px;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+#img
+{
+  border-radius: 20px;
+}
+.nav
+{
+  margin-left: 490px;
+  padding-bottom: 30px;
+
+}
+.nav ul a
+{
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+}
+.nav ul a:hover
+{
+  color: #f89d34;
+  border-bottom: 3px solid cyan;
+}
+
+
+
+
+
+#art
+{
+  height: 300px;
+  width: 600px;
+  border: thin solid transparent;
+  margin-top: 200px;
+  margin-left: 30px;
+}
+#h
+{
+  color: #f89d34;
+  margin-left: 80px;
+  font-size: 30px;
+}
+#p
+{
+  color: white;
+  margin-left: 80px;
+  margin-top: 30px;
+  font-size: 16px;
+}
+#bt
+{
+  margin-top: 40px;
+  margin-left: 80px;
+  
+}
+#btn1
+{
+  color: white;
+  border-radius: 25px;
+  padding: 8px;
+  width: 100px;
+  background-color:#c32c98 ;
+  border: thin solid #c32c98;
+}
+#btn2
+{
+  color: white;
+  border-radius: 25px;
+  padding: 8px;
+  width: 100px;
+  border: thin solid #c32c98;
+  background-color: transparent;
+}
+.plane
+{
+  border: transparent;
+  height: 170px;
+  width: 580px;
+  margin-top: 100px;
+  margin-left: 160px;
+}
+#pl
+{
+  margin-top: -50px;
+}
+.plane2
+{
+  border: transparent;
+  height: 300px;
+  width: 920px;
+  margin-top: 80px;
+  display: flex;
+  align-items: center;
+}
+#img1
+{
+  
+  height: 250px;
+  width: 282px;
+  margin-left: 14px;
+  margin-top: 10px;
+  
+}
+#car
+{
+  
+  width: 400px;
+  margin: auto;
+}
+
+#img2
+{
+  
+  height: 250px;
+  width: 282px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+#img3
+{
+  
+  height: 250px;
+  width: 282px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+
